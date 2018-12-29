@@ -1,6 +1,6 @@
-token=NTE1NDQ2MTYwNjEwMTY0NzQ3.DtlPYw.9at0u0cuRBKtgxn-Bo-oyN1NpJA 
-owner=367290945428914186 
-prefix= 3
-game= 3help
+token=NTI4NTc2NTQ5NzcxOTM1NzQ1.DwkTfQ.hyAguzNN3IyBpWUCWlmfnb6PVMA
+owner=526864822348808193 
+prefix= x
+game= xhelp | by:ezookik
 stayinchannel=true
 songinstatus=true 
