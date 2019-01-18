@@ -1,6 +1,6 @@
 token=NTI4NTc2NTQ5NzcxOTM1NzQ1.DwkTfQ.hyAguzNN3IyBpWUCWlmfnb6PVMA
 owner=526864822348808193 
-prefix= x
-game= xhelp | by:ezookik
+prefix= 1
+game= 1help | by:ezookik
 stayinchannel=true
 songinstatus=true 
